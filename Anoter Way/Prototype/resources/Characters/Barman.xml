@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="1" height="1" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="Characters" tilewidth="16" tileheight="16" tilecount="684" columns="57">
+  <image source="Characters.png" width="918" height="204"/>
+ </tileset>
+ <layer name="Body" width="1" height="1">
+  <data>
+   <tile gid="116"/>
+  </data>
+ </layer>
+ <layer name="Legs" width="1" height="1">
+  <data>
+   <tile gid="4"/>
+  </data>
+ </layer>
+ <layer name="Shoes" width="1" height="1" opacity="0.94">
+  <data>
+   <tile gid="119"/>
+  </data>
+ </layer>
+ <layer name="Armor" width="1" height="1">
+  <data>
+   <tile gid="414"/>
+  </data>
+ </layer>
+ <layer name="Beard" width="1" height="1">
+  <data>
+   <tile gid="0"/>
+  </data>
+ </layer>
+ <layer name="Hair" width="1" height="1">
+  <data>
+   <tile gid="311"/>
+  </data>
+ </layer>
+ <layer name="Helmet" width="1" height="1">
+  <data>
+   <tile gid="0"/>
+  </data>
+ </layer>
+ <layer name="Shield" width="1" height="1">
+  <data>
+   <tile gid="0"/>
+  </data>
+ </layer>
+ <layer name="Weapon" width="1" height="1">
+  <data>
+   <tile gid="0"/>
+  </data>
+ </layer>
+</map>
